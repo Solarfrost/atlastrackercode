@@ -3,7 +3,7 @@ import discord
 import json
 import asyncio
 
-TOKEN = 'NTM4NDUwMDcxMjM1MzMwMDg5.Dyz-8g.YVr6xtejkiKwpgwFUtQVkz6l29U'
+TOKEN = '-removed-'
 
 client = discord.Client()
 
